@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'SSStandard';
-  src: url('../fonts/ss-standar/webfonts/ss-standard.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/ss-standar/webfonts/ss-standard.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/ss-standar/webfonts/ss-standard.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/ss-standar/webfonts/ss-standard.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/ss-standar/webfonts/ss-standard.svg#SSStandard') format('svg'); /* Legacy iOS */
+  src: url('../fonts/ss-standard/webfonts/ss-standard.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/ss-standard/webfonts/ss-standard.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/ss-standard/webfonts/ss-standard.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/ss-standard/webfonts/ss-standard.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/ss-standard/webfonts/ss-standard.svg#SSStandard') format('svg'); /* Legacy iOS */
 }
 
 /* This triggers a redraw in IE to Fix IE8's :before content rendering. */
