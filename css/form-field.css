@@ -1,0 +1,17 @@
+.form-field {
+  border-radius: 4px;
+/* Input 3: */
+  background: #FFFFFF;
+  color: #D8D8D8;
+  padding: 20px 46px;
+  border: none;
+  width:100%;
+  outline: none;
+  font-family: 'Montserrat';
+  line-height: 20px;
+}
+
+.field-with-icon {
+  position: relative;
+  margin-bottom: 20px;
+}

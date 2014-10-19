@@ -1,24 +1,6 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Montserrat', sans-serif;
-  background-color: #00C7AB;
-  font-size: 16px;
-}
-
-i {
-  display: inline-block;
-}
-
 .container {
   width: 304px;
   margin: auto;
-}
-
-.title {
-  font-weight: normal;
 }
 
 .title, .ss-dollarsign {
@@ -29,41 +11,29 @@ i {
   margin-bottom: 32px;
 }
 
-.title, .reset, .click {
+.title, .link-white, .click, .reset {
   color: white;
 }
 
 .ss-user, .ss-key {
-  display: inline-block;
   color: #D8D8D8;
   font-size: 16px;
+}
+
+.login-component {
   position: absolute;
   left: 4.5%;
   top: 50%;
   transform: translateY(-50%);
 }
+
 .ss-icon {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .reset {
   font-size: 14px;
-}
-
-.input-form {
-  border-radius: 4px;
-/* Input 3: */
-  background: #FFFFFF;
-  color: #D8D8D8;
-  padding: 20px 30px;
-  border: none;
-  width:100%;
-  outline: none;
+  margin-top: 48px;
 }
 
 
-
-.field-whit-icon {
-  position: relative;
-  margin-bottom: 22px;
-}
